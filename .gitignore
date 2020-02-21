@@ -1,0 +1,8 @@
+.DS_Store
+*/.DS_Store
+
+*.xcuserdatad*
+
+.scannerwork
+sonar-reports
+xcodebuild.log
